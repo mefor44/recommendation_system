@@ -1,2 +1,2 @@
 # recommendation_system
-Here I will develop erccoemndation system using python
+Here I will develop recommendation system using python
